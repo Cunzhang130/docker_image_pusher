@@ -1,1 +1,2 @@
-php:8-apache
+mobz/elasticsearch-head:5
+elasticsearch:7.17.18
