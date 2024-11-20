@@ -1,2 +1,1 @@
-nginx
-busybox
+ghcr.io/renfei/dm8:1.1.144
