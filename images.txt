@@ -1,2 +1,1 @@
-mobz/elasticsearch-head:5
-elasticsearch:7.17.18
+nginx
