@@ -1,2 +1,1 @@
-alpinelinux/gitlab
 bitnami/kube-state-metrics
