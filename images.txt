@@ -1,1 +1,2 @@
 bitnami/kube-state-metrics
+robustadev/krr
